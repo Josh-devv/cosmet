@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Solaire Cosmetics | A Ritual of Pure Radiance",
-  description: "Experience the ultimate botanical skincare ritual with Solaire Cosmetics. Meticulously crafted for your most radiant skin.",
+  title: "Aurea Curation | Alchemical Cosmetics & Radiant Complexion Artistry",
+  description: "Formulated with volcanic Obsidian Nectar and active peptides. Experience visual silence, refractive shading, and bespoke custom palette art.",
 };
 
 export default function RootLayout({
